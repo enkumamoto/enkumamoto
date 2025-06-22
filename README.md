@@ -12,89 +12,23 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
 
 ---
 
-## 🧪 Experiência Profissional
+- 📫 Como chegar até mim:
+  **[e-Mail](eiji.kumamoto@gmail.com)**
 
-### Radix Engenharia – Rio de Janeiro, RJ
+- 🧪 Experiência Profissional
+  **[Linkedin](https://www.linkedin.com/in/eijikumamotoneto/)**
 
-**Engenheiro DevOps | Maio 2023 - Presente**
+### **🖥️ My DevSetup** ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-- Suporte às equipes, manutenção e melhoria dos microsserviços no Azure.
-- Resposta a alertas via Azure Monitor.
-- Criação de recursos com Terraform: Kubernetes, App Service, Container App etc.
-- Gestão de CI/CD (Azure DevOps), com foco em segurança e boas práticas.
-- Administração de banco de dados (backups, manutenção, consultas).
-- Participação em design e implementação de recursos em QA e Produção.
+<div style="display: inline_block"><br>
+	 <a href="https://github.com/blmarquess">
+  <img align="center" alt="Bash" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="center" alt="Debian" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
+  <img align="center" alt="MacOS" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+  <img align="center" alt="Firefox" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg">
+  <img align="center" alt="VS code" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+	</a>
+</div>
 
----
-
-### Credere – Natal, RN
-
-**Desenvolvedor IaC e DPO | Outubro 2021 - Abril 2023**
-
-- Gestão de infraestrutura com Kubernetes, AWS, Terraform, Ansible.
-- Monitoramento de clusters, contêineres e instâncias.
-- Melhoria contínua do pipeline CI/CD.
-- Aplicação de boas práticas de segurança.
-- Gerência de banco de dados e alinhamento com a LGPD como DPO.
-
----
-
-### Secretaria de Estado de Educação de Ciência e de Tecnologia da Paraíba – João Pessoa, PB
-
-**Gerente de Infraestrutura de Rede | Março 2021 - Novembro 2021**
-
-- Supervisão da equipe e projetos de infraestrutura de rede.
-- Administração de servidores Linux e Windows.
-- Gestão de equipamentos de rede e resolução de problemas de nível 3.
-
----
-
-### Laboratório Roseanne Dore Soares – João Pessoa, PB
-
-**Analista de Suporte | Novembro 2018 - Março 2021**
-
-- Manutenção de servidores físicos (Windows Server e Linux).
-- Virtualização com Citrix Xenserver.
-- Suporte a ERP e monitoramento com Zabbix.
-- Gerência de banco de dados.
-- Suporte técnico à adequação da LGPD e certificação PALC.
-
----
-
-### Hospital Memorial São Francisco – João Pessoa, PB
-
-**Gerente de TI | Maio 2018 - Novembro 2018**
-
-- Liderança da equipe de TI.
-- Manutenção de servidores físicos e serviços virtualizados.
-- Responsável por contratos da área de TI.
-
-**Sysadmin e Analista de Suporte | Junho 2017 - Maio 2018**
-
-- Manutenção de servidores Windows e Linux com Hyper-V, QEMU-KVM.
-- Monitoramento com Zabbix.
-- Suporte a ERP e alinhamento para certificações ONA e Quementum.
-- Estratégias de infraestrutura com a equipe técnica.
-
----
-
-### HostDime Brazil – João Pessoa, PB
-
-**Estagiário de Analista de Suporte | Novembro 2016 - Junho 2017**
-
-- Administração de servidores Linux com WHM/cPanel.
-- Rotinas de backup e restauração de contas.
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Centro Universitário de João Pessoa, PB** — Redes de Computadores _(Agosto 2018)_
-- **Universidade Federal da Paraíba, PB** — Educação Musical _(2010)_
-
----
-
-## 🛠️ Habilidades Adicionais
-
-- Idiomas: Português (Nativo), Inglês (Proficiência Profissional)
-- Certificações e Cursos: Cisco NetAcad, Udemy, Alura, Universidade de Michigan, CertiProf
+<br />
