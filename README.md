@@ -43,6 +43,9 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
   <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
   </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
+  </a>
   <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="aws-cdk" width="40" height="40" />
   </a>
@@ -55,6 +58,7 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
   <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" />
   </a>
+
 </p>
 
 <h3 align="left">🛠 Que estou aprendendo e aprimorando:</h3>
