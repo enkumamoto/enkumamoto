@@ -106,3 +106,7 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
 </p>
 
 ---
+
+## 🌎 Leia em outros idiomas
+
+- [English README](./README.en.md)
