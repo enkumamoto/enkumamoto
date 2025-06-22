@@ -49,6 +49,9 @@ Always studying more about Cloud and starting to explore new technologies. In my
   <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="aws-cdk" width="40" height="40" />
   </a>
+  <a href="https://developer.hashicorp.com/terraform/cdktf" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/cdklabs/construct-hub-webapp/main/public/cdktf.svg" alt="tfcdk" width="40" height="40" />
+  </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
   </a>
