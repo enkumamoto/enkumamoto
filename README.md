@@ -103,7 +103,3 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
 </p>
 
 ---
-
-<div align='center'>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]
-</div>
