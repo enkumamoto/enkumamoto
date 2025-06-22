@@ -50,7 +50,7 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
     <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="aws-cdk" width="40" height="40" />
   </a>
   <a href="https://developer.hashicorp.com/terraform/cdktf" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/cdklabs/construct-hub-webapp/main/public/cdktf.svg" alt="tfcdk" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/hashicorp/terraform-cdk/main/website/static/img/cdktf.svg" alt="cdktf" width="40" height="40" />
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
