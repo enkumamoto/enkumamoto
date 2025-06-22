@@ -1,18 +1,18 @@
-<h1 align="center">Oi 👋, eu sou o Eiji Kumamoto <a href="https://github.com/enkumamoto"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
+<h1 align="center">Hi 👋, I'm Eiji Kumamoto <a href="https://github.com/enkumamoto"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
-### Sou desenvolvedor Iac no Brasil
+### I'm an Iac developer from Brazil
 
-## 💼 Resumo
+## 💼 About Me
 
-Desenvolvedor IaC (Infrastructure as Code) e Sysadmin (Administrador de Sistemas) com mais de 6 anos de experiência em ERP, servidores Linux e Windows, cabeamento estruturado e análise de requisitos.
+IaC Developer and Sysadmin (System Administrator) with over 8 years of experience in ERP, Linux and Windows servers, structured cabling, and requirements analysis.
 
-Como desenvolvedor IaC, sou responsável por criar, revisar, manter e aprimorar infraestruturas na AWS e Azure utilizando Terraform, Ansible, AWS CDK e TFCDK, entre outras tecnologias. Tenho conhecimento e experiência em monitoramento de clusters, contêineres e instâncias, manutenção e melhoria de pipelines CI/CD, além de otimizar o ambiente de monitoramento com ferramentas como Grafana. Aplico boas práticas de segurança e interajo com outras equipes de desenvolvimento.
+As an IaC developer, I am responsible for creating, reviewing, maintaining, and improving infrastructures on AWS and Azure using Terraform, Ansible, AWS CDK, and TFCDK, among other technologies. I have knowledge and experience in monitoring clusters, containers, and instances, maintaining and improving CI/CD pipelines, as well as optimizing the monitoring environment with tools like Grafana. I apply security best practices and interact with other development teams.
 
-Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos meus tempos livres, dedico-me à família, estudos musicais e jogos. Sou uma pessoa tranquila, em constante aprendizado e testes. Amo tecnologia e estou sempre lendo documentação e fóruns para encontrar novas informações.
+Always studying more about Cloud and starting to explore new technologies. In my free time, I dedicate myself to family, music studies, and games. I am a calm person, constantly learning and testing. I love technology and am always reading documentation and forums to find new information.
 
 ---
 
-- 📫 Como chegar até mim:
+- 📫 How to find me:
   **[e-Mail](eiji.kumamoto@gmail.com)**
 
 - 🧪 Experiência Profissional
@@ -34,7 +34,7 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
 
 <br />
 
-<h3 align="left">🛠 Techs Favorita:</h3>
+<h3 align="left">🛠 Favorite techs:</h3>
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
@@ -49,9 +49,6 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
   <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="aws-cdk" width="40" height="40" />
   </a>
-  <a href="https://developer.hashicorp.com/terraform/cdktf" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/cdklabs/construct-hub-webapp/main/public/cdktf.svg" alt="tfcdk" width="40" height="40" />
-  </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
   </a>
@@ -64,7 +61,7 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
 
 </p>
 
-<h3 align="left">🛠 Que estou aprendendo e aprimorando:</h3>
+<h3 align="left">🛠 What I am learning and improving:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
@@ -95,7 +92,7 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
   </a>
 </p>
 
-<h3 align="left">☁️ Conhecimento nas Clouds:</h3>
+<h3 align="left">☁️ Knowledge in Clouds:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="aws" width="40" height="40" />
