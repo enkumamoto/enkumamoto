@@ -111,4 +111,3 @@ Always studying more about Cloud and starting to explore new technologies. In my
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.demolab.com/?user=enkumamoto&theme=radical)
