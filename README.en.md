@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eiji Kumamoto <a href="https://github.com/enkumamoto"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eijikumamotoneto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:eiji.kumamoto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://www.google.com.br/maps/place/Jo%C3%A3o+Pessoa,+PB/@-7.1464312,-34.9640008,22690m/data=!3m2!1e3!4b1!4m6!3m5!1s0x7ace839019aa3d7:0x6e414a9c6d26db34!8m2!3d-7.1188352!4d-34.8814339!16zL20vMDFoeTlk?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D">
   <img src="https://img.shields.io/badge/Location-Brazil-green?style=for-the-badge&logo=brazil&logoColor=white" alt="Location">
   </a>
