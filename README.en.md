@@ -7,7 +7,9 @@
   <a href="mailto:eiji.kumamoto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.google.com.br/maps/place/Jo%C3%A3o+Pessoa,+PB/@-7.1464312,-34.9640008,22690m/data=!3m2!1e3!4b1!4m6!3m5!1s0x7ace839019aa3d7:0x6e414a9c6d26db34!8m2!3d-7.1188352!4d-34.8814339!16zL20vMDFoeTlk?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D">
   <img src="https://img.shields.io/badge/Location-Brazil-green?style=for-the-badge&logo=brazil&logoColor=white" alt="Location">
+  </a>
 </p>
 
 ---
