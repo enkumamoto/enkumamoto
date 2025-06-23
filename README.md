@@ -111,7 +111,7 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=enkumamoto&theme=darkhub&margin-w=15)
-[![GitHub Wrapped](https://githubwrapped.tech/api/v1/user/enkumamoto/image)](https://githubwrapped.tech/user/enkumamoto)
+![Veja meu Skyline 3D ✨](https://skyline.github.com/enkumamoto/2024)
 
 ---
 
