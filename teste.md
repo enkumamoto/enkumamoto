@@ -37,7 +37,7 @@ Estou em constante aprendizado sobre **Cloud** e explorando novas tecnologias. N
     <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="AWS CDK" width="40" height="40" />
   </a>
   <a href="https://developer.hashicorp.com/terraform/cdktf" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/hashicorp/terraform-cdk/main/website/static/img/cdktf.svg" alt="CDKTF" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/hashicorp/terraform-cdk/main/website/static/img/cdktf.svg" alt="cdktf" width="40" height="40" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
