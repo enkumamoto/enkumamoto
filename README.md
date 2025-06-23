@@ -104,6 +104,12 @@ Sempre estudando mais sobre Cloud e começando a explorar novas tecnologias. Nos
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
   </a>
 </p>
+---
+### 👨‍💻 Atividade no Github
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=enkumamoto&theme=radical)
 
 ---
 
