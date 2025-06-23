@@ -111,5 +111,5 @@ Always studying more about Cloud and starting to explore new technologies. In my
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical)
-![GitHub Calendar](https://github-contributions-api.deno.dev/enkumamoto.svg)
+![GitHub Calendar](https://github-contributions.vercel.app/api/v1/enkumamoto?format=svg&theme=github-dark)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=enkumamoto&theme=darkhub&margin-w=15)
