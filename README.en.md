@@ -1,114 +1,149 @@
 <h1 align="center">Hi 👋, I'm Eiji Kumamoto <a href="https://github.com/enkumamoto"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
-### I'm an Iac developer from Brazil
-
-## 💼 About Me
-
-IaC Developer and Sysadmin (System Administrator) with over 8 years of experience in ERP, Linux and Windows servers, structured cabling, and requirements analysis.
-
-As an IaC developer, I am responsible for creating, reviewing, maintaining, and improving infrastructures on AWS and Azure using Terraform, Ansible, AWS CDK, and TFCDK, among other technologies. I have knowledge and experience in monitoring clusters, containers, and instances, maintaining and improving CI/CD pipelines, as well as optimizing the monitoring environment with tools like Grafana. I apply security best practices and interact with other development teams.
-
-Always studying more about Cloud and starting to explore new technologies. In my free time, I dedicate myself to family, music studies, and games. I am a calm person, constantly learning and testing. I love technology and am always reading documentation and forums to find new information.
+<p align="center">
+  <a href="https://www.linkedin.com/in/eijikumamotoneto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:eiji.kumamoto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Brazil-green?style=for-the-badge&logo=brazil&logoColor=white" alt="Location">
+</p>
 
 ---
 
-- 📫 How to find me:
-  **[e-Mail](eiji.kumamoto@gmail.com)**
+## 🚀 IaC Developer & Sysadmin | 6+ Years of Experience
 
-- 🧪 Experiência Profissional
-  **[Linkedin](https://www.linkedin.com/in/eijikumamotoneto/)**
+I'm an **IaC (Infrastructure as Code) Developer** and **Sysadmin** with over **6 years of experience** in **ERP**, **Linux and Windows servers**, **structured cabling**, and **requirements analysis**.
 
-### **🖥️ My DevSetup**
+My role as an IaC Developer involves **creating, reviewing, maintaining, and improving infrastructures** on **AWS** and **Azure** using tools like **Terraform**, **Ansible**, **AWS CDK**, and **TFCDK**. I have expertise in **monitoring clusters, containers, and instances**, **maintaining and enhancing CI/CD pipelines**, and optimizing monitoring environments with **Grafana**. I consistently apply **security best practices** and actively collaborate with other development teams.
 
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+I'm continuously learning about **Cloud** and exploring new technologies. In my free time, I dedicate myself to my family, music studies, and gaming. I am a calm, curious individual passionate about technology, always seeking new knowledge through documentation and forums.
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/enkumamoto">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-    <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
-    <img align="center" alt="Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
-    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+---
+
+## 💻 My Technical Skills
+
+### Infrastructure as Code (IaC) & Orchestration Tools
+
+<p align="left">
+  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   </a>
-</div>
+  <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="AWS CDK" width="40" height="40" />
+  </a>
+  <a href="https://developer.hashicorp.com/terraform/cdktf" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/hashicorp/terraform-cdk/main/website/static/img/cdktf.svg" alt="CDKTF" width="40" height="40" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+</p>
 
-<br />
+### Programming Languages
 
-<h3 align="left">🛠 Favorite techs:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
+  </a>
+</p>
+
+### Monitoring & Observability
+
+<p align="left">
+  <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40" />
+  </a>
+</p>
+
+### Cloud Providers
+
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
+  </a>
+</p>
+
+### CI/CD & Version Control
+
+<p align="left">
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40" />
+  </a>
+  <a href="https://about.gitlab.com/stages-devops-lifecycle/ci-cd/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI" width="40" height="40" />
+  </a>
+</p>
+
+### Operating Systems & Other Tools
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="aws-cdk" width="40" height="40" />
-  </a>
-  <a href="https://developer.hashicorp.com/terraform/cdktf" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/hashicorp/terraform-cdk/main/website/static/img/cdktf.svg" alt="cdktf" width="40" height="40" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40" />
-  </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" />
-  </a>
-
-</p>
-
-<h3 align="left">🛠 What I am learning and improving:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" />
-  </a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure-devops" width="40" height="40" />
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40" />
-  </a>
-  <a href="https://about.gitlab.com/stages-devops-lifecycle/ci-cd/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab-ci" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="left">☁️ Knowledge in Clouds:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 GitHub Activity
+## 🖥️ My Development Environment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
+
+---
+
+## 📈 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=enkumamoto&theme=darkhub&margin-w=15)
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eijikumamotoneto/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:eiji.kumamoto@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+## 🌎 Read in Other Languages
+
+- [Portuguese README](./README.md)
