@@ -8,9 +8,9 @@
 
 ---
 
-## 🚀 Desenvolvedor IaC & Sysadmin | 6+ Anos de Experiência
+## 🚀 Desenvolvedor IaC & Sysadmin | 8+ Anos de Experiência
 
-Sou um **Desenvolvedor IaC (Infrastructure as Code)** e **Sysadmin** com mais de **6 anos de experiência** em **ERP**, **servidores Linux e Windows**, **cabeamento estruturado** e **análise de requisitos**.
+Sou um **Desenvolvedor IaC (Infrastructure as Code)** e **Sysadmin** com mais de **8 anos de experiência** em **ERP**, **servidores Linux e Windows**, **cabeamento estruturado** e **análise de requisitos**.
 
 Minha atuação como Desenvolvedor IaC me permite **criar, revisar, manter e aprimorar infraestruturas** em **AWS** e **Azure** utilizando ferramentas como **Terraform**, **Ansible**, **AWS CDK** e **TFCDK**. Possuo expertise em **monitoramento de clusters, contêineres e instâncias**, **manutenção e melhoria de pipelines CI/CD**, e otimização de ambientes de monitoramento com **Grafana**. Sempre aplico **boas práticas de segurança** e colaboro ativamente com outras equipes de desenvolvimento.
 
@@ -32,9 +32,6 @@ Estou em constante aprendizado sobre **Cloud** e explorando novas tecnologias. N
   <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-256-dark.png" alt="AWS CDK" width="40" height="40" />
   </a>
-  <a href="https://developer.hashicorp.com/terraform/cdktf" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/hashicorp/terraform-cdk/main/website/static/img/cdktf.svg" alt="cdktf" width="40" height="40" />
-  </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
   </a>
@@ -51,10 +48,6 @@ Estou em constante aprendizado sobre **Cloud** e explorando novas tecnologias. N
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
-  </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
   </a>
