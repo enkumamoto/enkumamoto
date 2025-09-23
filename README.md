@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F75C7E&center=true&vCenter=true&lines=IaC+%26+Cloud+Engineer;Sysadmin+com+8%2B+anos+de+experiência;Apaixonado+por+DevOps+e+Automação" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4500&color=F75C7E&center=true&vCenter=true&lines=IaC+%26+Cloud+Engineer;Sysadmin+com+8%2B+anos+de+experiência;Apaixonado+por+DevOps+e+Automação" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## 💡 Sobre mim
 
 > Sou um **Desenvolvedor IaC** e **Sysadmin** com mais de **8 anos de experiência**.  
-> 💻 Expert em **Terraform, AWS CDK, CI/CD** e monitoramento com **Grafana**.  
+> 💻 Experiente em **Terraform, AWS CDK, CI/CD** e monitoramento com **Grafana**.  
 > 🎯 Focado em boas práticas de segurança e otimização de pipelines.  
 > 📚 Sempre aprendendo novas tecnologias, explorando documentações e fóruns.  
 > 🎸 Nos meus momentos livres: música, família e games.
