@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F75C7E&center=true&vCenter=true&lines=IaC+%26+Cloud+Engineer;Sysadmin+with+8%2B+years+of+experience;Passionate+about+DevOps+%26+Automation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=F75C7E&center=true&vCenter=true&lines=IaC+%26+Cloud+Engineer;Sysadmin+with+8%2B+years+of+experience;Passionate+about+DevOps+%26+Automation" alt="Typing SVG">
 </p>
 
 <p align="center">
