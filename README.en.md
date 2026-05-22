@@ -115,3 +115,5 @@
 <p align="center">
   <a href="./README.md">🇧🇷 Leia em Português</a>
 </p>
+
+---

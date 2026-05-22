@@ -6,10 +6,10 @@ This repository is the **GitHub profile README** for [@enkumamoto](https://githu
 
 ## Files
 
-| File | Language | Purpose |
-|------|----------|---------|
-| `README.md` | Portuguese (pt-BR) | Primary profile page (shown by default on GitHub) |
-| `README.en.md` | English (en-US) | English version, linked from the Portuguese README |
+| File           | Language           | Purpose                                            |
+| -------------- | ------------------ | -------------------------------------------------- |
+| `README.md`    | Portuguese (pt-BR) | Primary profile page (shown by default on GitHub)  |
+| `README.en.md` | English (en-US)    | English version, linked from the Portuguese README |
 
 ## Profile Owner
 
@@ -38,4 +38,3 @@ This repository is the **GitHub profile README** for [@enkumamoto](https://githu
 - The `github-readme-stats` widgets are rendered via Vercel and use `theme=radical`.
 - Keep the tone **professional but approachable** — first-person, present tense.
 - Portuguese version is primary; English version is the translation target.
----
