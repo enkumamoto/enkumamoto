@@ -38,3 +38,4 @@ This repository is the **GitHub profile README** for [@enkumamoto](https://githu
 - The `github-readme-stats` widgets are rendered via Vercel and use `theme=radical`.
 - Keep the tone **professional but approachable** — first-person, present tense.
 - Portuguese version is primary; English version is the translation target.
+---
