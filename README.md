@@ -88,19 +88,14 @@
 
 ## 📈 Minhas Estatísticas no GitHub
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="100%"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="100%"/></td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enkumamoto&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://img.shields.io/github/stars/enkumamoto?style=for-the-badge&color=F75C7E&labelColor=1a1b27" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/enkumamoto?style=for-the-badge&color=F75C7E&labelColor=1a1b27&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=F75C7E&labelColor=1a1b27&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fenkumamoto" alt="Public Repos"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enkumamoto&theme=radical&margin-w=10&margin-h=10&no-frame=true&no-bg=false&column=4&row=2" alt="GitHub Trophies">
+  <img src="https://streak-stats.demolab.com?user=enkumamoto&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
 </p>
 
 ---
