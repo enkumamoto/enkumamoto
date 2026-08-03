@@ -88,17 +88,19 @@
 
 ## 📈 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="100%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="100%"/></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enkumamoto&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkumamoto&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=enkumamoto&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enkumamoto&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enkumamoto&theme=darkhub&margin-w=15&no-frame=true&row=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=enkumamoto&theme=radical&margin-w=10&margin-h=10&no-frame=true&no-bg=false&column=4&row=2" alt="GitHub Trophies">
 </p>
 
 ---
