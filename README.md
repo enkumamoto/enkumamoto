@@ -25,10 +25,14 @@
 ## 💡 Sobre mim
 
 > Sou um **Desenvolvedor IaC** e **Sysadmin** com mais de **8 anos de experiência**.  
-> 💻 Experiente em **Terraform, AWS CDK, CI/CD** e monitoramento com **Grafana**.  
-> 🎯 Focado em boas práticas de segurança e otimização de pipelines.  
-> 📚 Sempre aprendendo novas tecnologias, explorando documentações e fóruns.  
+> 💻 Experiente em **Terraform, Ansible, AWS CDK, CI/CD** e monitoramento com **Grafana/Prometheus**.  
+> 🎯 Focado em automação de infraestrutura, boas práticas de segurança e otimização de pipelines.  
+> 🌱 Sempre aprendendo novas tecnologias, explorando documentações e fóruns.  
 > 🎸 Nos meus momentos livres: música, família e games.
+
+- 🔭 Atualmente trabalhando com **Terraform, Kubernetes e Azure DevOps**
+- 🤝 Aberto a colaborar em projetos de **automação e observabilidade**
+- 📫 Me encontre em [LinkedIn](https://www.linkedin.com/in/eijikumamotoneto/) ou por [e-mail](mailto:eiji.kumamoto@gmail.com)
 
 ---
 
@@ -111,6 +115,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enkumamoto&label=Visualizações%20do%20perfil&color=F75C7E&style=flat" alt="Visualizações do perfil">
+</p>
 
 <p align="center">
   <a href="./README.en.md">🇺🇸 Read in English</a>

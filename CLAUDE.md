@@ -14,7 +14,7 @@ This repository is the **GitHub profile README** for [@enkumamoto](https://githu
 ## Profile Owner
 
 - **Name:** Eiji Kumamoto
-- **Role:** IaC Developer & Sysadmin — 6+ years of experience
+- **Role:** IaC Developer & Sysadmin — 8+ years of experience
 - **Location:** João Pessoa, PB, Brazil
 - **Email:** eiji.kumamoto@gmail.com
 - **LinkedIn:** linkedin.com/in/eijikumamotoneto/

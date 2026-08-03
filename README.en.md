@@ -25,10 +25,14 @@
 ## 💡 About Me
 
 > I'm an **IaC Developer** and **Sysadmin** with over **8 years of experience**.  
-> 💻 Skilled in **Terraform, AWS CDK, CI/CD** and **Grafana-based monitoring**.  
-> 🎯 Focused on security best practices and pipeline optimization.  
-> 📚 Constantly learning new technologies and exploring documentation & forums.  
+> 💻 Skilled in **Terraform, Ansible, AWS CDK, CI/CD** and monitoring with **Grafana/Prometheus**.  
+> 🎯 Focused on infrastructure automation, security best practices, and pipeline optimization.  
+> 🌱 Constantly learning new technologies and exploring documentation & forums.  
 > 🎸 Outside work: music, family, and gaming.
+
+- 🔭 Currently working with **Terraform, Kubernetes, and Azure DevOps**
+- 🤝 Open to collaborating on **automation and observability** projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/eijikumamotoneto/) or by [email](mailto:eiji.kumamoto@gmail.com)
 
 ---
 
@@ -111,6 +115,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enkumamoto&label=Profile%20views&color=F75C7E&style=flat" alt="Profile views">
+</p>
 
 <p align="center">
   <a href="./README.md">🇧🇷 Leia em Português</a>
